@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Yan <3 😁
+## Bem-vindo(a) ao meu perfil <3
 
  <div>
    <a href="https://github.com/yan-mr">

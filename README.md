@@ -53,4 +53,4 @@ Em busca de ser um Desenvolvedor FullStack Jr. Apaixonado pela área da tecnolog
 </div>&nbsp;&nbsp;
  
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=264653&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFCA2E&height=120&section=footer"/>

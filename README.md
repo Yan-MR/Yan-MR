@@ -1,8 +1,3 @@
-
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
-
-
 <p align="center">Eu ❤️ resolvo grandes desafios usando tecnologia.
 
 Em busca de ser um Desenvolvedor FullStack Jr. Apaixonado pela área da tecnologia, gosto de equilibrar minha futura carreira entre competências técnicas e gerenciais, por isso ganhei experiências na minha equipe do proa!, coordenando o projeto, analisando e melhorando as minhas habilidades, integrando tudo isso aos fundamentos do meu desenvolvimento ágil.</p>&nbsp;

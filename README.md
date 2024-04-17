@@ -4,13 +4,8 @@ Em busca de ser um Desenvolvedor FullStack Jr. Apaixonado pela área da tecnolog
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6932f5&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
  </div>
- <div/>
-  
- [![My skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,react,c#,mysql,figma)](https://skills.thijs.gg)
-</div>
- 
  &nbsp;
  &nbsp;
 

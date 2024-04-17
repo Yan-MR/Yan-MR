@@ -2,9 +2,6 @@
 
 Em busca de ser um Desenvolvedor FullStack Jr. Apaixonado pela área da tecnologia, gosto de equilibrar minha futura carreira entre competências técnicas e gerenciais, por isso ganhei experiências na minha equipe do proa!, coordenando o projeto, analisando e melhorando as minhas habilidades, integrando tudo isso aos fundamentos do meu desenvolvimento ágil.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
- </div>
  <div >
   <a href="https://github.com/yan-mr">
   <img height="180em" width="50%"src="https://github-readme-stats.vercel.app/api?username=yan-mr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">

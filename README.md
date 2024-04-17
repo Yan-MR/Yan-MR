@@ -4,10 +4,7 @@ Em busca de ser um Desenvolvedor FullStack Jr. Apaixonado pela área da tecnolog
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6932f5&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
  </div>
- <img width="41%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/lilian-carvalho25?cardType=github&Background=0D1117&Text=00BFBF&Title=9C55DF&Border=6932f5&Ring=C77DFF&width=41%&height=195px]https://git.io/awesome-stats-card" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilian-carvalho25&layout=compact&hide_border=false&border_color=6932f5&title_color=9D4EDD&text_color=00bfbf&bg_color=0d1117" />
  &nbsp;
  &nbsp;
 

@@ -5,7 +5,7 @@
 
 <p align="center">Eu ❤️ resolvo grandes desafios usando tecnologia.
 
-Engenheiro de software apaixonado por resolver problemas complexos através da tecnologia. Gosto de equilibrar minha carreira entre competências técnicas e gerenciais, por isso ganhei experiência liderando equipes, coordenando projetos, analisando e melhorando continuamente softwares, integrando tudo isso aos fundamentos do desenvolvimento ágil.</p>&nbsp;
+Em busca de ser um Desenvolvedor FullStack Jr. Apaixonado pela área da tecnologia, gosto de equilibrar minha futura carreira entre competências técnicas e gerenciais, por isso ganhei experiências na minha equipe do proa!, coordenando o projeto, analisando e melhorando as minhas habilidades, integrando tudo isso aos fundamentos do meu desenvolvimento ágil.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />

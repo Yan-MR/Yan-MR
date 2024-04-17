@@ -1,7 +1,19 @@
-<p align="center">Eu ❤️ resolvo grandes desafios usando tecnologia.
+### SEJA BEM-VINDO AO MEU PERFIL!! 👋
 
-Em busca de ser um Desenvolvedor FullStack Jr. Apaixonado pela área da tecnologia, gosto de equilibrar minha futura carreira entre competências técnicas e gerenciais, por isso ganhei experiências na minha equipe do proa!, coordenando o projeto, analisando e melhorando as minhas habilidades, integrando tudo isso aos fundamentos do meu desenvolvimento ágil.</p>&nbsp;
+## Prazer! 👋 Me chamo Yan Moisés Rodrigues 
+Sobre mim:
+  ° 💻 Em busca de ser um Desenvolvedor <strong>FullStack</strong> Jr. 
+ 
+  ° ❤️ Apaixonado pela área da <strong>Tecnologia</strong>
 
+  ° 💼 Aluno de pgramação no Senac, pela instituição PROA💙.
+
+  ° 🚀 Buscando sempre aprender novas tecnologias de <strong>Fornt-End</strong>, <strong> Back End</strong> e <strong> Banco de Dados </strong>.
+  
+  ° 🎓 Concluindo a minha formação pelo PROA💙
+  <hr>
+<p align="center">Resolvendo grandes desafios usando tecnologia❤️
+ <hr>
  <div >
   <a href="https://github.com/yan-mr">
   <img height="180em" width="50%"src="https://github-readme-stats.vercel.app/api?username=yan-mr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
@@ -22,14 +34,14 @@ Em busca de ser um Desenvolvedor FullStack Jr. Apaixonado pela área da tecnolog
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Plataforma Utilizada♥:
+#### PLATAFORMA UTILIZADA♥:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
 
-## Contacts:
+## CONTATOS:
 
 <div> 
 <a href="https://www.instagram.com/yan.rodri/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>

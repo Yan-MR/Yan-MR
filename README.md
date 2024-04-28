@@ -1,4 +1,4 @@
-### SEJA BEM-VINDO AO MEU PERFIL!! 👋
+### Seja Bem-vindo ao meu perfil!! 👋
 
 ## Prazer! 👋 Me chamo Yan Moisés Rodrigues 
 Sobre mim:

@@ -3,7 +3,7 @@
 ## Prazer! 👋 Me chamo Yan Moisés Rodrigues 
 Sobre mim:
 
-  ° 💻 Em busca de ser um Desenvolvedor <strong>FullStack</strong> Jr. 
+  ° 💻 Em busca de ser um Desenvolvedor <strong>FullStack</strong> Jr.
  
   ° ❤️ Apaixonado pela área da <strong>Tecnologia</strong>
 

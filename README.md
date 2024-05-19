@@ -7,7 +7,7 @@ Sobre mim:
  
   ° ❤️ Apaixonado pela área da <strong>Tecnologia</strong>
 
-  ° 💼 Aluno de pgramação no Senac, pela instituição PROA💙.
+  ° 💼 Aluno de programação no Senac, pela instituição PROA💙.
 
   ° 🚀 Buscando sempre aprender novas tecnologias de <strong>Fornt-End</strong>, <strong> Back End</strong> e <strong> Banco de Dados </strong>.
   

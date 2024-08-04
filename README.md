@@ -9,7 +9,7 @@ Sobre mim:
 
   ° 💼 Aluno de programação no Senac, pela instituição PROA💙.
 
-  ° 🚀 Buscando sempre aprender novas tecnologias de <strong>Fornt-End</strong>, <strong> Back End</strong> e <strong> Banco de Dados </strong>.
+  ° 🚀 Buscando sempre aprender novas tecnologias de <strong>Front-End</strong>, <strong> Back End</strong> e <strong> Banco de Dados </strong>.
   
   ° 🎓 Concluindo a minha formação pelo PROA💙
   <hr>

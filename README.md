@@ -3,15 +3,13 @@
 ## Prazer! 👋 Me chamo Yan Moisés Rodrigues 
 Sobre mim:
 
-  ° 💻 Em busca de ser um Desenvolvedor <strong>FullStack</strong> Jr.
+  ° 💻 Em busca de ser um profissional na área que mais acredito ser o <strong>Futuro</strong>.
  
-  ° ❤️ Apaixonado pela área da <strong>Tecnologia</strong>
+  ° ❤️ Apaixonado pela área da <strong>Programação</strong>.
 
-  ° 💼 Aluno de programação no Senac, pela instituição PROA💙.
-
-  ° 🚀 Buscando sempre aprender novas tecnologias de <strong>Front-End</strong>, <strong> Back End</strong> e <strong> Banco de Dados </strong>.
+  ° 🚀 Buscando sempre aprender novas tecnologias que estão em alta no mercado.
   
-  ° 🎓 Concluindo a minha formação pelo PROA💙
+  ° 🎓 Certificado de programador pelo <strong>PROA</strong>💙.
   <hr>
 <p align="center">Resolvendo grandes desafios usando tecnologia❤️
  <hr>

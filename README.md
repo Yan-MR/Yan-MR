@@ -29,10 +29,10 @@
 
 <div align="center">
   <a href="https://github.com/yan-mr">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=yan-mr&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+    <img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=yan-mr&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/yan-mr">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-mr&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-mr&layout=compact&langs_count=7&theme=tokyonight&disable_animations=true&hide_border=true&cache_seconds=3000"/>
   </a>
 </div>
 

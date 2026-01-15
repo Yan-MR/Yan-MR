@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  ° 💻 Em busca de ser um profissional na área que mais acredito ser o **Futuro**.
+  ° 💻 Atualmente trabalhando como aprendiz na **Grupo Casas Bahia**.
   
   ° ❤️ Apaixonado pela área da **Programação**.
 

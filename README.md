@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  ° 💻 Atualmente trabalhando como aprendiz na **Grupo Casas Bahia**.
+  ° 💻 Atualmente trabalhando como aprendiz no **Grupo Casas Bahia**.
   
   ° ❤️ Apaixonado pela área da **Programação**.
 
@@ -35,6 +35,32 @@
     <img align="center" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yan-mr&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
+
+<br>
+
+## PROJETOS EM DESTAQUE 🚀
+
+### 🏢 Techcorp (Demo Automação)
+Ambiente corporativo simulado contendo módulos de Intranet, Gestão de RH e Central de Helpdesk, idealizado para desafios de automação RPA e QA. Inclui rotinas de automação desenvolvidas em Python.
+<p>
+  <a href="https://demo-automacao.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar_Projeto-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/patrinhani/demo-automacao" target="_blank">
+    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+### 🍽️ SABORIA
+Plataforma desenvolvida com a ideia de facilitar a vida de pessoas com restrições alimentares, permitindo encontrar restaurantes seguros de forma rápida e prática.
+<p>
+  <a href="https://linktr.ee/saboriaoficial" target="_blank">
+    <img src="https://img.shields.io/badge/Links_do_Projeto-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+  <a href="https://github.com/saboria-oficial" target="_blank">
+    <img src="https://img.shields.io/badge/Organização_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <br>
 
@@ -69,7 +95,7 @@
   <a href="https://www.instagram.com/yan.rodri/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:contato.yanmrodriguesdev@gmail.com">
+  <a href="mailto:rodriguesyan143@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/yanmrodrigues" target="_blank">

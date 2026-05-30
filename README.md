@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  ° 💻 Atualmente trabalhando como aprendiz no **Grupo Casas Bahia**.
+  ° 💻 Atualmente trabalhando como Assistente Administrativo no **Grupo Casas Bahia**.
   
   ° ❤️ Apaixonado pela área da **Programação**.
 

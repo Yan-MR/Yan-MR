@@ -40,6 +40,26 @@
 
 ## PROJETOS EM DESTAQUE 🚀
 
+### 🌬️ ForcaNitro
+Projeto open-source criado para resolver um problema real no meu Acer Nitro 5: o NitroSense parou de funcionar corretamente e o notebook perdeu desempenho por falta de controle das ventoinhas.
+
+O ForcaNitro é uma alternativa independente para controle térmico, com interface visual, modos de ventilação e suporte ao botão físico do NitroSense no modelo testado.
+
+<p>
+  <img src="https://raw.githubusercontent.com/Yan-MR/Projeto-nitro-5/master/docs/assets/forcanitro-dashboard.png" alt="ForcaNitro Dashboard" width="700"/>
+</p>
+
+<p>
+  <a href="https://github.com/Yan-MR/Projeto-nitro-5" target="_blank">
+    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Yan-MR/Projeto-nitro-5/releases/latest" target="_blank">
+    <img src="https://img.shields.io/badge/Download-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</p>
+
 ### 🏢 Techcorp (Demo Automação)
 Ambiente corporativo simulado contendo módulos de Intranet, Gestão de RH e Central de Helpdesk, idealizado para desafios de automação RPA e QA. Inclui rotinas de automação desenvolvidas em Python.
 <p>
